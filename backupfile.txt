@@ -1,0 +1,6 @@
+index.bak
+config.bak
+db.bak
+wp-config.bak
+.htaccess.bak
+robots.txt.bak
